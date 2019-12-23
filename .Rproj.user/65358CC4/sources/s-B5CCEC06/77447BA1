@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1577142184858.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "523042603",
+    "id" : "77447BA1",
+    "lastKnownWriteTime" : 1577142179,
+    "last_content_update" : 1577142179,
+    "path" : "~/GitHub/blogdown1/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
