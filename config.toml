@@ -4,6 +4,9 @@ languageCode = "en-us"
 DefaultContentLanguage = "en"
 title = "Hugo Techdoc Theme"
 theme = "hugo-theme-techdoc"
+publishDir = "docs"
+enableEmoji = true
+canonifyurls = true
 
 hasCJKLanguage = true
 metaDataFormat = "yaml"

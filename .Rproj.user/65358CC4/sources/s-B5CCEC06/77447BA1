@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "523042603",
+    "hash" : "1376547303",
     "id" : "77447BA1",
-    "lastKnownWriteTime" : 1577142179,
-    "last_content_update" : 1577142179,
+    "lastKnownWriteTime" : 1577142582,
+    "last_content_update" : 1577142582250,
     "path" : "~/GitHub/blogdown1/config.toml",
     "project_path" : "config.toml",
     "properties" : {
+        "cursorPosition" : "8,19",
+        "scrollLine" : "0"
     },
     "relative_order" : 1,
     "source_on_save" : false,
