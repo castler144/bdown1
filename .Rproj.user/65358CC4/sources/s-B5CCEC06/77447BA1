@@ -2,18 +2,18 @@
     "collab_server" : "",
     "contents" : "",
     "created" : 1577142184858.000,
-    "dirty" : false,
+    "dirty" : true,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1932912919",
+    "hash" : "0",
     "id" : "77447BA1",
     "lastKnownWriteTime" : 1577143067,
-    "last_content_update" : 1577143067251,
+    "last_content_update" : 1577143282298,
     "path" : "~/GitHub/blogdown1/config.toml",
     "project_path" : "config.toml",
     "properties" : {
-        "cursorPosition" : "8,19",
-        "scrollLine" : "0"
+        "cursorPosition" : "49,28",
+        "scrollLine" : "23"
     },
     "relative_order" : 1,
     "source_on_save" : false,
